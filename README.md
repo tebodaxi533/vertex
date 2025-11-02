@@ -1,1 +1,4 @@
 # vertex
+nok
+la
+se
